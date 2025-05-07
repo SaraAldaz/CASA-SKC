@@ -1,0 +1,38 @@
+.inicio{
+    height: 76vh;
+    color: #000000;
+    position: relative;
+}
+
+.info{
+    width: fit-content;
+    margin: auto;
+    position: absolute;
+    top:20%;
+    left: 50%;
+}
+
+h2{
+    font-size: 60px;
+    letter-spacing: 3px;
+}
+
+h3{
+    color: #797e8e;
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.inicio .info p{
+    padding-top: 10px;
+    color: #797e8e;
+    font-size: 16px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.imginicio{
+    width: 45%;
+    position: absolute;
+}
